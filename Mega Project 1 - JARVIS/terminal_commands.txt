@@ -1,0 +1,10 @@
+pip install speechrecognition pyaudio
+pip install setuptools
+## pip install webbrowser
+pip install pyttsx3
+pip install pocketsphinx
+pip install requests
+
+
+
+Your API key is: c255f98a87954246b63f1a6e9a97b9ca
