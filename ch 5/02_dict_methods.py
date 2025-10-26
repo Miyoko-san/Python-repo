@@ -30,4 +30,4 @@ print(marks["Miyoko"])
    #Both seem to be same but are not 
 
 print(marks.get("Robin")) # gives None as output
-print(marks["Robin"])   # gives Error as output
+# print(marks["Robin"])   # gives Error as output

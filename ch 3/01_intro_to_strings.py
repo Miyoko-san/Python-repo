@@ -9,13 +9,13 @@ c = '''Zoro''' # Triple quotes string : used for multi line strings
 
 #Slicing a string : Indexing starts from 0 and -1 (directions)
 
-name_short = name[0:2] # excludes 2nd character (technically the 3rd character)
+name_short = name[0:2] # excluding the 2nd character (technically the 3rd character)
 print(name_short)
 
 character1 = name[1]
 print(character1)
 
-print(name[-4: -1])
+print(name[-4: -1]) # excluding the -1th character (technically the last character)
 
 print(name[:4]) # no first index => 0 
 print(name[0:]) # no last index => length

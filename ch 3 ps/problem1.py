@@ -1,4 +1,4 @@
-#write a program to ask user name followed a good fternoon text
+#write a program to ask user name followed a good afternoon text
 
 a = input("Please enter your name : ")
 print("Good Afternoon",a)
